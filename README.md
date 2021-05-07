@@ -1,2 +1,4 @@
 
-Chat room application made usign React.js
+Chat room application made using React.js
+
+SuperChat
